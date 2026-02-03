@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-learn
+joblib
+onnx
+onnxruntime
+skl2onnx
+python-multipart
+aiofiles
+python-dotenv
+lightgbm  # Optional: improves model performance, falls back to RandomForest if not available
